@@ -72,7 +72,7 @@ body {
       rgba(245, 227, 224, 0.6),
       rgba(209, 181, 175, 0.6)
     ),
-    url(img/home.jpg);
+    url(../img/home.jpg);
   background-size: cover;
   background-position: bottom;
   position: relative;
